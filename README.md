@@ -10,7 +10,7 @@ The dataset was taken from <a href="https://www.kaggle.com/datasets/blastchar/te
 The dataset has the following information:
 
  - Identifier
--- customerID - ID number of the customer
+- customerID - ID number of the customer
 Target Variable
 
 Churn - Churn status, whether the customer churned or not
