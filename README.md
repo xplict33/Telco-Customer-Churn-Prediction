@@ -11,10 +11,11 @@ The dataset has the following information:
 
  - Identifier
     - customerID - ID number of the customer
-Target Variable
 
-Churn - Churn status, whether the customer churned or not
-Demographic information
+- Target Variable
+    - Churn - Churn status, whether the customer churned or not
+
+- Demographic information
 
 gender - Whether the customer is a male or a female
 SeniorCitizen - Whether the customer is a senior citizen or not
