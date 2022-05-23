@@ -9,7 +9,7 @@ The dataset was taken from <a href="https://www.kaggle.com/datasets/blastchar/te
 
 The dataset has the following information:
 
- “*” Identifier
+ - Identifier
 
 customerID - ID number of the customer
 Target Variable
