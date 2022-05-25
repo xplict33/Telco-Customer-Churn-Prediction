@@ -56,7 +56,7 @@ Correlation between the features.
 
 ![This is an image](https://github.com/xplict33/Telco-Customer-Churn-Prediction/blob/main/images/cor.png)
 
-<img src="https://your-image-url.type](https://github.com/xplict33/Telco-Customer-Churn-Prediction/blob/main/images/cor.png" width="100" height="100">
+<img src="https://github.com/xplict33/Telco-Customer-Churn-Prediction/blob/main/images/cor.png" width="200" height="400">
 
 Confusion matrix
 
