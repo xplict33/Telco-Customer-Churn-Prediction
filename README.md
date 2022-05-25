@@ -53,3 +53,6 @@ The dataset has the following information:
 
 # Quick glance at the results
 Correlation between the features.
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/xplict33/Telco-Customer-Churn-Prediction/tree/main/images)
+
+
