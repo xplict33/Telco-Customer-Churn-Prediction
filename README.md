@@ -44,3 +44,9 @@ The dataset has the following information:
     - StreamingMovies - Whether the customer has streaming movies or not
 
 # Methods
+- Exploratory data analysis (Univariate, Multivariate analysis)
+- Descriptive analysis
+- Multivariate correlation
+- Predictive analysis
+- Model deployment
+- Model Evaluation
