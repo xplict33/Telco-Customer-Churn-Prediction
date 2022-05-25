@@ -7,6 +7,8 @@ This is a classification machine learning problem for predicting customers churn
 
 # Data Source
  <a href="https://www.kaggle.com/datasets/blastchar/telco-customer-churn"> IBM sample dataset </a>.
+ 
+ # Data Attributes
 
 The dataset has the following information:
 
