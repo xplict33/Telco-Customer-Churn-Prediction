@@ -50,3 +50,6 @@ The dataset has the following information:
 - Predictive analysis
 - Model deployment
 - Model Evaluation
+
+# Quick glance at the results
+
