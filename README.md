@@ -32,6 +32,9 @@ The dataset has the following information:
     - MonthlyCharges - The amount charged to the customer monthly
     - TotalCharges - The total amount charged to the customer
 
+# Methods
+
+
 - Services that each customer has signed up for
     - PhoneService - Whether the customer has a phone service or not
     - MultipleLines - Whether the customer has multiple lines or not
