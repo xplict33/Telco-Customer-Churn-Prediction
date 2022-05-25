@@ -54,11 +54,11 @@ The dataset has the following information:
 # Quick glance at the results
 Correlation between the features.
 
-![This is an image](https://github.com/xplict33/Telco-Customer-Churn-Prediction/blob/main/images/cor.png)
-
 <img src="https://github.com/xplict33/Telco-Customer-Churn-Prediction/blob/main/images/cor.png" width="500" height="400">
 
 Confusion matrix
 
 ![This is an image](https://github.com/xplict33/Telco-Customer-Churn-Prediction/blob/main/images/confussion.png)
+
+<img src="https://github.com/xplict33/Telco-Customer-Churn-Prediction/blob/main/images/confussion.png" width="500" height="400">
 
