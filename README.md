@@ -6,7 +6,7 @@ This is my first project in machine learning.
 This is a classification machine learning problem for predicting customers churn from the company based on customers who left within the last month labeled by 'yes' or 'no'.
 
 # Data Source
- <a href="https://www.kaggle.com/datasets/blastchar/telco-customer-churn"> IBM sample dataset </a>.
+ <a href="https://www.kaggle.com/datasets/blastchar/telco-customer-churn"> IBM sample dataset </a> in Kaggle.
  
  # Data Attributes
 
