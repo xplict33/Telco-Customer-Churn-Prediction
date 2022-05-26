@@ -54,13 +54,25 @@ The dataset has the following information:
 # Quick glance at the results
 Correlation between the features.
 
-<img src="https://github.com/xplict33/Telco-Customer-Churn-Prediction/blob/main/images/cor.png" width="500" height="400">
+<img src="https://github.com/xplict33/Telco-Customer-Churn-Prediction/blob/main/images/cor.png" width="600" height="400">
 
 Confusion matrix
 
-<img src="https://github.com/xplict33/Telco-Customer-Churn-Prediction/blob/main/images/confussion.png" width="500" height="400">
+<img src="https://github.com/xplict33/Telco-Customer-Churn-Prediction/blob/main/images/confussion.png" width="600" height="400">
 
 ROC Curve
 
 <img src="https://github.com/xplict33/Telco-Customer-Churn-Prediction/blob/main/images/roc.png" width="600" height="400">
 
+**Scores**
+
+| Score  | In % |
+| ------------- | ------------- |
+| Accuracy  | 78.2 |
+| Precision  | 61.96 |
+| Recall     | 44.3 |
+| ROC AUC    | 0.808 |
+
+Precision: 61.96473551637279
+Accuracy: 78.19905213270142
+Recall: 44.32432432432433
