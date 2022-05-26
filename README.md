@@ -67,7 +67,7 @@ Correlation between the features.
 
 Confusion matrix
 
-<img src="https://github.com/xplict33/Telco-Customer-Churn-Prediction/blob/main/images/confussion.png" width="600" height="400">
+<img src="https://github.com/xplict33/Telco-Customer-Churn-Prediction/blob/main/images/confussion.png" width="600" height="450">
 
 ROC Curve
 
