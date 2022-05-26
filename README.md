@@ -75,7 +75,7 @@ ROC Curve
 
 **Scores**
 
-| Score  | In % |
+|   | Score |
 | ------------- | ------------- |
 | Accuracy  | 78.2 |
 | Precision  | 61.96 |
