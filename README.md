@@ -42,6 +42,15 @@ The dataset has the following information:
     - TechSupport - Whether the customer has tech support or not
     - StreamingTV - Whether the customer has streaming TV or not
     - StreamingMovies - Whether the customer has streaming movies or not
+    
+# Data Attribute Used
+- SeniorCitizen - Whether the customer is a senior citizen or not
+- tenure - Number of months the customer has used the service
+- MonthlyCharges - The amount charged to the customer monthly
+- StreamingTV - Whether the customer has streaming TV or not
+- StreamingMovies - Whether the customer has streaming movies or not
+- Churn - Churn status, whether the customer churned or not
+
 
 # Methods
 - Exploratory data analysis (Univariate, Multivariate analysis)
@@ -73,6 +82,3 @@ ROC Curve
 | Recall     | 44.3 |
 | ROC AUC    | 0.808 |
 
-Precision: 61.96473551637279
-Accuracy: 78.19905213270142
-Recall: 44.32432432432433
