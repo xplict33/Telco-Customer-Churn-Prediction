@@ -62,5 +62,5 @@ Confusion matrix
 
 ROC Curve
 
-<img src="https://github.com/xplict33/Telco-Customer-Churn-Prediction/blob/main/images/roc.png" width="550" height="400">
+<img src="https://github.com/xplict33/Telco-Customer-Churn-Prediction/blob/main/images/roc.png" width="600" height="400">
 
